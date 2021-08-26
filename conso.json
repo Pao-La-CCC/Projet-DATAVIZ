@@ -1,0 +1,391 @@
+
+{
+
+ "ZAF1":{
+   "Nom de Pays":"Afrique du Sud",
+   "Taux d'électricité":"85",
+   "PIB/Habitant":"6001"
+ }
+,
+
+ "AGO1":{
+   "Nom de Pays":"Angola",
+   "Taux d'électricité":"46",
+   "PIB/Habitant":"2791"
+ }
+,
+
+ "BEN1":{
+   "Nom de Pays":"Benin",
+   "Taux d'électricité":"40",
+   "PIB/Habitant":"1219"
+ }
+,
+
+ "BWA1":{
+   "Nom de Pays":"Botswana",
+   "Taux d'électricité":"70",
+   "PIB/Habitant":"7961"
+ }
+,
+
+ "FBA1":{
+   "Nom de Pays":"Burkina Faso",
+   "Taux d'électricité":"18",
+   "PIB/Habitant":"787"
+ }
+,
+
+ "BDI1":{
+   "Nom de Pays":"Burundi",
+   "Taux d'électricité":"10",
+   "PIB/Habitant":"261"
+ }
+,
+
+ "CPV1":{
+   "Nom de Pays":"Cape Verde",
+   "Taux d'électricité":"96",
+   "PIB/Habitant":"3604"
+ }
+,
+
+ "CMR1":{
+   "Nom de Pays":"Cameroon",
+   "Taux d'électricité":"63",
+   "PIB/Habitant":"1507"
+ }
+,
+
+ "COM1":{
+   "Nom de Pays":"Comores",
+   "Taux d'électricité":"84",
+   "PIB/Habitant":"1370"
+ }
+,
+
+ "COD1":{
+   "Nom de Pays":"Congo RDC",
+   "Taux d'électricité":"10",
+   "PIB/Habitant":"NULL"
+ }
+,
+
+  "COG1":{
+   "Nom de Pays":"Congo Brazzaville",
+   "Taux d'électricité":"10",
+   "PIB/Habitant":"NULL"
+ }
+,
+
+ "CIV1":{
+   "Nom de Pays":"Cote d'Ivoire",
+   "Taux d'électricité":"68",
+   "PIB/Habitant":"2276"
+ }
+,
+
+ "ERI1":{
+   "Nom de Pays":"Erythrée",
+   "Taux d'électricité":"50",
+   "PIB/Habitant":"NULL"
+ }
+,
+
+ "ETH1":{
+   "Nom de Pays":"Ethiopie",
+   "Taux d'électricité":"48",
+   "PIB/Habitant":"856"     
+ }
+,
+
+ "GAB1":{
+   "Nom de Pays":"Gabon",
+   "Taux d'électricité":"91",
+   "PIB/Habitant":"7767"
+ }
+,
+
+ "GAM1":{
+   "Nom de Pays":"Gambie",
+   "Taux d'électricité":"10",
+   "PIB/Habitant":"778"
+ }
+,
+
+ "GAN1":{
+   "Nom de Pays":"Ghana",
+   "Taux d'électricité":"84",
+   "PIB/Habitant":"2202"
+ }
+,
+
+ "GIN1":{
+   "Nom de Pays":"Guinea",
+   "Taux d'électricité":"42",
+   "PIB/Habitant":"963"
+ }
+,
+
+ "GNQ1":{
+   "Nom de Pays":"Guinée equatoriale",
+   "Taux d'électricité":"67",
+   "PIB/Habitant":"8132"
+ }
+,
+
+ "GNB1":{
+   "Nom de Pays":"Guinée Bissao",
+   "Taux d'électricité":"31",
+   "PIB/Habitant":"697"
+ }
+,
+
+ "KEN1":{
+   "Nom de Pays":"Kenya",
+   "Taux d'électricité":"10",
+   "PIB/Habitant":"1817"
+ }
+,
+
+ "LSO1":{
+   "Nom de Pays":"Lesotho",
+   "Taux d'électricité":"45",
+   "PIB/Habitant":"1118"
+ }
+,
+
+ "LBR1":{
+   "Nom de Pays":"Liberia",
+   "Taux d'électricité":"28",
+   "PIB/Habitant":"622"
+ }
+,
+
+ "MDG1":{
+   "Nom de Pays":"Madagascar",
+   "Taux d'électricité":"27",
+   "PIB/Habitant":"523"
+ }
+,
+
+ "MWI1":{
+   "Nom de Pays":"Malawi",
+   "Taux d'électricité":"11",
+   "PIB/Habitant":"412"
+ }
+,
+
+ "MLI1":{
+   "Nom de Pays":"Mali",
+   "Taux d'électricité":"48",
+   "PIB/Habitant":"879"
+ }
+,
+
+ "MRT1":{
+   "Nom de Pays" :"Mauritanie",
+   "Taux d'électricité" :"46",
+   "PIB/Habitant" :"1679"
+ }
+,
+
+ "MUS1":{
+   "Nom de Pays":"Ile Maurice",
+   "Taux d'électricité":"100",
+   "PIB/Habitant":"11099"
+ }
+,
+
+ "MOZ1":{
+   "Nom de Pays":"Mozambique",
+   "Taux d'électricité":"30",
+   "PIB/Habitant":"509"
+ }
+,
+
+ "NAM1":{
+   "Nom de Pays":"Namibie",
+   "Taux d'électricité":"10",
+   "PIB/Habitant":"4957"
+ }
+,
+
+ "NER1":{
+   "Nom de Pays":"Niger",
+   "Taux d'électricité":"19",
+   "PIB/Habitant":"554"
+ }
+,
+
+ "NGA1":{
+   "Nom de Pays":"Nigeria",
+   "Taux d'électricité":"10",
+   "PIB/Habitant":"2230"
+ }
+,
+
+ "UGA1":{
+   "Nom de Pays":"Uganda",
+   "Taux d'électricité":"41",
+   "PIB/Habitant":"794"
+   }
+,
+
+ "CAF1":{
+   "Nom de Pays":"Centre Afrique",
+   "Taux d'électricité":"14",
+   "PIB/Habitant":"468"
+ }
+,
+
+ "RWA1":{
+   "Nom de Pays":"Rwanda",
+   "Taux d'électricité":"38",
+   "PIB/Habitant":"820"
+ }
+,
+
+ "STP1":{
+   "Nom de Pays":"Sao Tome and Principe",
+   "Taux d'électricité":"78",
+   "PIB/Habitant":"1947"
+ }
+,
+
+ "SEN1":{
+   "Nom de Pays":"Senegal",
+   "Taux d'électricité":"70",
+   "PIB/Habitant":"1447"
+ }
+,
+
+ "SYC1":{
+   "Nom de Pays":"Seychelles",
+   "Taux d'électricité":"100",
+   "PIB/Habitant":"17448"
+ }
+,
+
+ "SLE1":{
+   "Nom de Pays":"Sierra Leone",
+   "Taux d'électricité":"23",
+   "PIB/Habitant":"528"
+ }
+,
+
+ "SOM1":{
+   "Nom de Pays":"Somalie",
+   "Taux d'électricité":"36",
+   "PIB/Habitant":"917"
+ }
+,
+
+ "SDN1":{
+   "Nom de Pays":"Soudan",
+   "Taux d'électricité":"54",
+   "PIB/Habitant":"442"
+ }
+,
+
+ "SSD1":{
+   "Nom de Pays":"South Sudan",
+   "Taux d'électricité":"7",
+   "PIB/Habitant":"1600"
+ }
+,
+
+ "TZA1":{
+   "Nom de Pays":"Tanzanie",
+   "Taux d'électricité":"10",
+   "PIB/Habitant":"1122"
+ }
+,
+
+ "TCD1":{
+   "Nom de Pays":"TChad",
+   "Taux d'électricité":"38",
+   "PIB/Habitant":"710"
+ }
+,
+
+ "TGO1":{
+   "Nom de Pays":"Togo",
+   "Taux d'électricité":"54",
+   "PIB/Habitant":"679"
+ }
+,
+
+ "ZMB1":{
+   "Nom de Pays":"Zambie",
+   "Taux d'électricité":"43",
+   "PIB/Habitant":"1305"
+ }
+,
+
+ "ZWE1":{
+   "Nom de Pays":"Zimbabwe",
+   "Taux d'électricité":"41",
+   "PIB/Habitant":"1464"
+ }
+,
+
+ "DZA1":{
+   "Nom de Pays":"Algerie",
+   "Taux d'électricité":"100",
+   "PIB/Habitant":"3974"
+ }
+,
+
+ "DJI1":{
+   "Nom de Pays":"Djibouti",
+   "Taux d'électricité":"61",
+   "PIB/Habitant":"3415"
+ }
+,
+
+ "EGY1":{
+   "Nom de Pays":"Egypte",
+   "Taux d'électricité":"100",
+   "PIB/Habitant":"3000"
+ }
+,
+
+ "WSR1":{
+   "Nom de Pays":"Sahara Occidental",
+   "Taux d'électricité":"Valeur inconnu",
+   "PIB/Habitant":"2500"
+ }
+,
+
+ "LBY1":{
+   "Nom de Pays":"Libye",
+   "Taux d'électricité":"69",
+   "PIB/Habitant":"7686"
+ }
+,
+
+ "MAR1":{
+   "Nom de Pays":"Maroc",
+   "Taux d'électricité":"100",
+   "PIB/Habitant":"3204"
+ }
+,
+
+ "SWZ1":{
+   "Nom de Pays":"Eswatini",
+   "Taux d'électricité":"77",
+   "PIB/Habitant":"3895"
+ }
+,
+
+ "TUN1":{
+   "Nom de Pays":"Tunisie",
+   "Taux d'électricité":"100",
+   "PIB/Habitant":"3317"
+ }
+
+}
+  
+  
+  

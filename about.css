@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap'); 
+
+html{
+    scroll-behavior:smooth;
+    
+    
+
+}
+h1{
+    font-size:30px;
+    color:rgb(36, 18, 6);
+    font-family:'Montserrat';
+    text-align:left;
+    
+}
+
+
+h2{
+    margin-top:50px;
+}
+body{
+    text-align:initial;
+     margin:0;
+     padding:0;
+     font-family:'Montserrat' , 'Segoe UI', Tahoma, Verdana, Geneva, Tahoma, sans-serif ;
+
+}
+p{
+    color:rgb(31, 30, 30);
+    font-size:20px;
+
+}
+
+
+
+
+
+
+ /* NAV BAR  */
+    
+ nav{
+    height:60px;
+    background-color:rgb(39, 36, 36);
+    display:flex;
+    flex-direction:row;
+    /* align-items:stretch; */
+}
+
+
+nav a{
+    padding:20px;
+
+}
+
+
+
+
+li a:hover {
+  background-color:#ddd;
+  color:black;
+}
+
+.links{
+    /* background-color:darksalmon; */
+    width:100px;
+    list-style:none;
+    display:flex;
+    flex-direction:row;
+    align-items:stretch;
+   
+}
+
+a{
+    /* background-color:firebrick; */
+
+    color:#f2f2f2;
+    text-align:center;
+    text-decoration:none;
+}
+
+
+
+
+
+
+/* Page_container => Main */
+
+
+
+.big_container{
+    display:flex;
+    justify-content:center;
+    background-color: rgb(250, 232, 209);
+
+}
+
+.page_container{
+    width:990px;
+    background-color:rgb(255, 255, 255);
+    
+
+}
+
+
+.page_container > *{
+    margin-left:10px;
+    margin-right:10PX;
+}
+
+img{
+    width:900px;
+    height:800px;
+    margin-left:30px;
+}
+.introduction{
+    margin-top:50px;
+}
